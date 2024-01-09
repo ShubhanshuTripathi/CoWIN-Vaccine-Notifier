@@ -1,0 +1,3 @@
+- Developed a Python notebook to notify the user, as soon as any desired Covid Vaccine is available on CoWIN website for booking
+- Implemented 4 dynamic filters on the Vaccination calendar received as a JSON response from Co-WIN API
+- Helped more than 30 people to get Covid Vaccines using this notifier
